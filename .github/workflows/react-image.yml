@@ -1,4 +1,4 @@
-name: build docker image and push to docker hub
+name: build-react
 on:
   workflow_dispatch:
     inputs:
